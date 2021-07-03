@@ -32,3 +32,6 @@ Ah, why not. Might help someone or inspire them to make something better.
 ### Notes
 
 There are no tests or anything at all useful here, I'm sorry if you came here expecting a kick-ass selfhosted solution. It took me longer to write this readme than it did to get the rest of the app built and working.
+
+![image](https://user-images.githubusercontent.com/11065054/124366344-118a5800-dc47-11eb-9b26-76808420a86b.png)
+
